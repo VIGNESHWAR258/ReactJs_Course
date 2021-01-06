@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-
 import Icons from './components/Icons';
 
 import { ToastContainer, toast } from 'react-toastify';

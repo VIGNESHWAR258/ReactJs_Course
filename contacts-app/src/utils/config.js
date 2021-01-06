@@ -1,0 +1,19 @@
+//TODO: DONE add firebase configuration and export it
+export const firebaseConfig = {
+  //TODO: ADD YOUR FIREBASE INFO HERE //Done
+  apiKey: "AIzaSyBOGfoTr-2SOragyzPBvGWR7Hj5gaOJS90",
+  authDomain: "mygitapp-af8d1.firebaseapp.com",
+  databaseURL: "https://mygitapp-af8d1-default-rtdb.firebaseio.com",
+  projectId: "mygitapp-af8d1",
+  storageBucket: "mygitapp-af8d1.appspot.com",
+  messagingSenderId: "409026763960",
+  appId: "1:409026763960:web:8bc05873b8bd76c329684d",
+  measurementId: "G-HG48NN80PL"
+};
+//image configuration
+export const imageConfig = {
+  quality: 0.2,
+  maxWidth: 800,
+  maxHeight: 600,
+  autoRotate: true
+};
